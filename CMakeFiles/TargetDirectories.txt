@@ -1,0 +1,3 @@
+/home/parallels/workspace/entropy/CMakeFiles/rebuild_cache.dir
+/home/parallels/workspace/entropy/CMakeFiles/edit_cache.dir
+/home/parallels/workspace/entropy/CMakeFiles/entropy.dir

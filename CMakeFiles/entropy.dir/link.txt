@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/entropy.dir/src/log.c.o CMakeFiles/entropy.dir/src/main.c.o CMakeFiles/entropy.dir/src/packet.c.o  -o entropy 

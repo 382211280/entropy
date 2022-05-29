@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/workspace/entropy/src/packet.c
+stdlib.h
+-
+stdio.h
+-
+log.h
+/home/parallels/workspace/entropy/src/log.h
+
+include/log.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+time.h
+-
+
